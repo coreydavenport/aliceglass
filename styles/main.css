@@ -114,6 +114,12 @@ iframe {
   margin-top: 20px;
 }
 
+
+.about>p {
+  font-size: 16px;
+  text-align: justify;
+}
+
 /*
  * Header
  */
